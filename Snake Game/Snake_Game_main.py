@@ -5,7 +5,7 @@ from snake_food import Food
 from snake_score import Score
 
 screen = turtle.Screen()
-screen.screensize(600, 500)
+screen.setup(600, 600)
 screen.bgcolor("Black")
 screen.title("Welcome to Snake Game!")
 
@@ -34,7 +34,7 @@ while snake.is_game_on:
         food.refresh()
         
     #Detect the wall colision
-    if snake.all_snakes[0].xcor() > 330 or snake.all_snakes[0].xcor() < -340 or snake.all_snakes[0].ycor() > 280  or snake.all_snakes[0].ycor() < -280:
+    if snake.all_snakes[0].xcor() > 280 or snake.all_snakes[0].xcor() < -300 or snake.all_snakes[0].ycor() > 310  or snake.all_snakes[0].ycor() < -290:
         snake.is_game_on = False
         score.game_over()
         
