@@ -26,7 +26,6 @@ If you want to play it online. Please visit [BlackJack](https://games.washington
 
 ## **📚 Documentation**
 For more information on Python basics, refer to the [official Python documentation](https://docs.python.org/3/).
-For turtle documentation [Official Python Turtle library Documentation](https://docs.python.org/3/library/turtle.html)
 
 ## **👏 Credits**
 This project is inspired by Angela's "[100 Days of Python](https://www.udemy.com/course/100-days-of-code/?couponCode=LETSLEARNNOWPP)" course.
