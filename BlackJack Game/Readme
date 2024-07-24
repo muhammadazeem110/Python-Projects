@@ -1,10 +1,12 @@
-# BlackJack Game
-### Description
+# **BlackJack Game**
+
+## **Description**
 The BlackJack Game is a Python-based implementation of the classic card game Blackjack, also known as Twenty-One. Players compete against the dealer to achieve a hand value closer to 21 without exceeding it. This game utilizes the Turtle graphics library to create an interactive and visually appealing experience.
 
-###Installation
+## **Installation**
 To run the game, ensure you have Python installed. Then, install the required library with the following command:
 
+```bash
 pip install PythonTurtle
 
 For detailed information, visit the PythonTurtle PyPI page.
