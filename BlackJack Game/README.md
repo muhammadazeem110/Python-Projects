@@ -8,7 +8,7 @@ To run the game, ensure you have Python installed. Then, install the required li
 
 ```bash
 pip install PythonTurtle
-
+```
 For detailed information, visit the PythonTurtle PyPI page.
 
 ## **Usage**
@@ -27,10 +27,10 @@ Options for hitting, standing, doubling, and splitting.
 ## **Screenshots**
 
 ## **Documentation**
-For more information on the Turtle library used in this project, refer to the official Turtle documentation.
+For more information on the Turtle library used in this project, refer to the [official Turtle documentation](https://docs.python.org/3/library/turtle.html).
 
 ## **Credits**
-This project is inspired by Angela's "100 Days of Python" course.
+This project is inspired by Angela's "[100 Days of Python](https://www.udemy.com/course/100-days-of-code/?couponCode=LETSLEARNNOWPP)" course.
 
 ## **License**
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://github.com/muhammadazeem110/Python-Projects/blob/main/LICENSE) License.
