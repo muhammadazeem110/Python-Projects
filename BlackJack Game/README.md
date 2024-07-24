@@ -22,8 +22,7 @@ If you want to play it online. Please visit [BlackJack](https://games.washington
 - Options for hitting, standing, doubling, and splitting.
 
 ## **Screenshots**
-![BlackJack Game Screenshot](![Uploading image.png…]()
-)
+(![BlackJack Game Screenshot](https://github.com/user-attachments/assets/abe6e3f0-3138-4f2f-9980-6c87c10f8c3d))
 
 ## **Documentation**
 For more information on Python basics, refer to the [official Python documentation](https://docs.python.org/3/).
