@@ -11,25 +11,26 @@ pip install PythonTurtle
 
 For detailed information, visit the PythonTurtle PyPI page.
 
-### Usage:
-Run the main script to start the game. The graphical interface will prompt you to play against the dealer. Use the controls to "hit" (draw a card) or "stand" (end your turn) to get as close to 21 as possible without busting.
+## **Usage**
+Run the main script to start the game. The graphical interface will prompt you to play against the dealer.
+Use the controls to "hit" (draw a card) or "stand" (end your turn) to get as close to 21 as possible without busting.
 
-### Game Rules:
+## **Game Rules**
 Card Values: Aces are worth 1 or 11 points, face cards are worth 10 points, and all other cards are worth their face value.
 Gameplay: Players can choose to "hit" or "stand". Going over 21 results in a "bust", losing the round.
 Winning: The player wins if their hand value is closer to 21 than the dealer's without exceeding 21. Ties result in a push. Blackjack (an Ace and a 10-point card) pays 3:2.
 Additional Options: Players can double their bet on any two-card hand or split pairs into separate hands.
-Features
+## **Features**
 Intuitive graphical interface using the Turtle library.
 Standard Blackjack rules and gameplay.
 Options for hitting, standing, doubling, and splitting.
-### Screenshots:
+## **Screenshots**
 
-### Documentation:
+## **Documentation**
 For more information on the Turtle library used in this project, refer to the official Turtle documentation.
 
-### Credits:
+## **Credits**
 This project is inspired by Angela's "100 Days of Python" course.
 
-### License:
+## **License**
 This project is licensed under the MIT License.
