@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e1cf64c-7b72-44d5-ba01-dae060364281)# **BlackJack Game**
+# **BlackJack Game**
 
 ## **Description**
 The BlackJack Game is a Python-based implementation of the classic card game Blackjack, also known as Twenty-One. Players compete against the dealer to achieve a hand value closer to 21 without exceeding it. This game involves Python basics and is a simple yet engaging way to practice Python programming.
