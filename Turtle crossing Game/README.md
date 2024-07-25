@@ -4,7 +4,7 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Game Rules](#Game Rules)
+- [Game Rules](#GameRules)
 - [Features](#Features)
 - [Screenshots](#Screenshots)
 - [Documentation](#Documentation)
