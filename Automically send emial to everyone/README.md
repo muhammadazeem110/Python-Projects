@@ -11,7 +11,7 @@ Before running the script, ensure you have the following:
 ## **📂 Installation**
 1) Clone the Repository:
 ```bash
-git clone [https://github.com/yourusername/mail-merge-automation.git](https://github.com/muhammadazeem110/Python-Projects/tree/df3a2bec72488c23db38b21872cc609036ad1955/Automically%20send%20emial%20to%20everyone)
+git clone https://github.com/yourusername/mail-merge-automation.git
 cd mail-merge-automation
 ```
 2) Install Required Packages:
