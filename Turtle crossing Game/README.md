@@ -1,7 +1,7 @@
 # **🐢 Turtle Crossing Road Game**
 
 ## **📑 Table of Contents**
-- Description
+- [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Game Rules](#GameRules)
